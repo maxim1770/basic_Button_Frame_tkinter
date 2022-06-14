@@ -2,7 +2,7 @@
 
 <h3>Условие фото:</h3>
 
-
+![python_ff](https://user-images.githubusercontent.com/72470327/173641310-d7ec06ae-c586-4ee3-9512-3adac96039de.png)
 
 <h3>Условие текст:</h3>
 <p>
